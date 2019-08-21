@@ -1,0 +1,8 @@
+env:
+- name: DEPLOY_NAMESPACE
+  value: cd-staging
+pipelineConfig:
+  env:
+  - name: DEPLOY_NAMESPACE
+    value: cd-staging
+  pipelines: {}
