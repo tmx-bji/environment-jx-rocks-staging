@@ -13,3 +13,6 @@ dependencies:
 - name: jx-go
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: tmx-bji
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
