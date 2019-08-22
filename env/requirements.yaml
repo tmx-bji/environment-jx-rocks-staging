@@ -1,7 +1,7 @@
 dependencies:
 - name: croc-hunter-jenkinsx
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.62
+  version: 0.0.63
 - alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
